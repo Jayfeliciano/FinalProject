@@ -1,6 +1,7 @@
 # GenLock
 #### Video Demo:  <URL HERE>
-#### Description:
+#### Description:  GenLock creates strong, random passwords in seconds. Customize length, special characters, and bulk generation for ultimate security. Simple, fast, and reliable—protect your accounts with GenLock!
+
 # GenLock: Your Go-To Password Generator
 
 
