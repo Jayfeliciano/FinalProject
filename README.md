@@ -3,7 +3,6 @@
 #### Description:
 # GenLock: Your Go-To Password Generator
 
-#### Video Demo: <URL HERE>
 
 ## About GenLock
 Ever struggled to come up with a strong password? GenLock is here to make your life easier! This Python-based tool lets you generate secure passwords tailored to your needs. Whether you need something simple or ultra-secure, GenLock has you covered. It even checks password strength and gives you the option to store passwords safely for future use.
